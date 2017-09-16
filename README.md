@@ -17,6 +17,6 @@ You will not be able to build the full game from this source code, as there are 
 
 Mobile as a 3D gaming platform is terrible for many reasons. Here's a few:
 
-1. Graphics have to be reduced to terrible settings, even on high end phones.
+1. Graphics have to be reduced to lowest settings for smooth FPS, even on high end phones.
 2. Battery life is impossible to spare.
 3. You can only clutter the screen with so many inputs.
